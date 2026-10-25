@@ -24,15 +24,6 @@ I build practical software where **mobile apps, intelligent systems, and hardwar
 - 🎓 Electronics & Telecommunication Engineering, **VJTI '25**
 - 💬 Ask me about Flutter, Python, data analytics, or turning an idea into a working prototype
 
-## Selected work
-
-| Project | What it does | Built with |
-|---|---|---|
-| [**AlgoSAFE**](https://github.com/Himanshu-singh04/AlgoSafe) | Cross-platform app for monitoring and controlling AlgoFET devices over Bluetooth Low Energy | Flutter, Dart, BLE, Firebase |
-| [**Crop Recommendation**](https://github.com/Himanshu-singh04/Crop_Recommendation) | Recommends crops from soil nutrients and environmental conditions | Python, Flask, scikit-learn |
-| [**Vishwa Robotics Workspace**](https://github.com/Himanshu-singh04/vishwa_workspace) | Robotics workspace created for the 2024 International Rover Challenge | Python, ROS |
-| [**Intelligent Vision**](https://github.com/Himanshu-singh04/Intelligent-Vision) | Computer-vision project built for the Kavach Cybersecurity Hackathon | Python, Computer Vision |
-
 ## Toolbox
 
 <p align="center">
